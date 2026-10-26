@@ -1,0 +1,14 @@
+# Données (ne pas publier le jeu de données du cours)
+tp4_data/
+*.rar
+*.csv
+
+# Python / Spark / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+.venv/
+.DS_Store
